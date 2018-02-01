@@ -313,7 +313,7 @@
 	<!-- this section is defined for testing the deployment to a private repository, 
 		please update this section for your own repository -->
 
-	<distributionManagement>
+	<!-- <distributionManagement>
 		<repository>
 			<id>artifactory-releases</id>
 			<name>libs-releases</name>
@@ -325,7 +325,7 @@
 			<name>libs-snapshots</name>
 			<url>http://localhost:8081/artifactory/libs-snapshots-local</url>
 		</snapshotRepository>
-	</distributionManagement>
+	</distributionManagement> -->
 
 
 </project>
