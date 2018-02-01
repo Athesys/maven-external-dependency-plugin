@@ -232,7 +232,7 @@ under the License.
         
   <!--  MAVEN DEPLOYMENT REPOSITORY -->
   
-  <distributionManagement>
+  <!-- <distributionManagement>
     <repository>
        <id>ossrh</id>
        <name>Sonatype OSS Repository</name>
@@ -248,7 +248,7 @@ under the License.
        <name>Savage7 Site Docs</name>
        <url>ftp://savage7.com/maven-external-dependency-plugin/</url>
     </site>
-  </distributionManagement>
+  </distributionManagement>  -->
   
         
   <!--  SITE REPORTING / DOCUMENTATION -->
